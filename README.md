@@ -1,4 +1,4 @@
-# Hi, I'm Kayla!
+# Kayla A. Mitchell
 
 **PhD candidate, Earth System Science** | UC Irvine  
 **Research focus:** Bayesian inverse modeling, ocean biogeochemistry, computational oceanography
